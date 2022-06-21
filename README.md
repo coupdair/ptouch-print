@@ -43,6 +43,8 @@ first turn ON the P-Touch device
     sudo ./ptouch-print --image 12mm_GIMP.png
     sudo ./ptouch-print --image 24mm_tux.png
 
+![tux for 24mm tape](24mm_tux.png)
+
 ### max. height for current tape
 
 to get maximum height for the current tape inside the P-touch
