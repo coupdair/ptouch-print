@@ -38,10 +38,10 @@ https://mockmoon-cybernetics.ch/computer/p-touch2430pc/
 first turn ON the P-Touch device
 , then print examples:
 
-
     sudo ./ptouch-print --text "P-touch 2730"
     sudo ./ptouch-print --image brother.png
     sudo ./ptouch-print --image 12mm_GIMP.png
+    sudo ./ptouch-print --image 24mm_tux.png
 
 ### max. height for current tape
 
