@@ -42,8 +42,9 @@ first turn ON the P-Touch device
     sudo ./ptouch-print --image brother.png
     sudo ./ptouch-print --image 12mm_GIMP.png
     sudo ./ptouch-print --image 24mm_tux.png
+    sudo ./ptouch-print --image 12mm_REActif.png
 
-![tux for 24mm tape](24mm_tux.png)
+![current design](current.png)
 
 ### max. height for current tape
 
