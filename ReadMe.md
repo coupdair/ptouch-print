@@ -3,6 +3,8 @@
 - [x] [gitlab](https://gitlab.in2p3.fr/SebastienCOUDERT/ptouch-print)
 - [x] [github](https://github.com/coupdair/ptouch-print)
 
+note: one may use `./git_swap_origin.sh` to swap from gitlab/github origin, to either pull/push (need to fill out `.git/config` with `#SWAP   url = git@git...`).
+
 <!--- begin@of@TOC --->
 # Table of contents
 
