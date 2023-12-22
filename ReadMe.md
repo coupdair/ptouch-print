@@ -28,7 +28,7 @@ https://mockmoon-cybernetics.ch/computer/p-touch2430pc/
 ## compile
 
     sudo apt update
-    sudo apt install -y autopoint libgd-dev libusb-1.0-0-dev
+    sudo apt install -y autopoint autoconf libgd-dev libusb-1.0-0-dev
     ./autogen.sh
     ./configure --prefix=/usr
     make
