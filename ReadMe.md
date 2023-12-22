@@ -1,5 +1,7 @@
 **Notice:** This repo is a clone of the one on [Dominic Radermacher's website](https://mockmoon-cybernetics.ch/computer/p-touch2430pc/), and he is the author. It is available here (https://github.com/clarkewd/ptouch-print/), with his permission, to help increase visibility of the project and to encourage collaboration and further development.
 
+- [x] [gitlab](https://gitlab.in2p3.fr/SebastienCOUDERT/ptouch-print)
+- [x] [github](https://github.com/coupdair/ptouch-print)
 
 # ptouch
 
