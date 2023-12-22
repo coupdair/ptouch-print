@@ -3,6 +3,18 @@
 - [x] [gitlab](https://gitlab.in2p3.fr/SebastienCOUDERT/ptouch-print)
 - [x] [github](https://github.com/coupdair/ptouch-print)
 
+<!--- begin@of@TOC --->
+# Table of contents
+
+1. [ptouch](#ptouch)
+     1. [compile](#compile)
+     1. [use](#use)
+          1. [max. height for current tape](#max-height-for-current-tape)
+     1. [PT-P700](#pt-p700)
+1. [A Note from Dominic's website](#a-note-from-dominic's-website)
+1. [Collaboration](#collaboration)
+<!--- end@of@TOC --->
+
 # ptouch
 
 ptouch is a command line tool to print labels on Brother P-Touch
